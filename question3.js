@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/test', (req, res) => {
-  res.json({ message: 'Express is working! Write your full name' });
+  res.json({ message: 'Express is working! Cedric E. Cornelio' });
 });
 
 app.listen(port, () => {

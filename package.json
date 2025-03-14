@@ -1,0 +1,23 @@
+{
+  "name": "midterm-exam-solution",
+  "version": "1.0.0",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedceddyyy/midterm-exam-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedceddyyy/midterm-exam-solution/issues"
+  },
+  "homepage": "https://github.com/cedceddyyy/midterm-exam-solution#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
